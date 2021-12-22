@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421218276726",
+    "firebase_url": "https://safeme-6c6c1-default-rtdb.firebaseio.com",
+    "project_id": "safeme-6c6c1",
+    "storage_bucket": "safeme-6c6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421218276726:android:0bd82feb1d87de4211d657",
+        "android_client_info": {
+          "package_name": "com.example.safeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421218276726-rpdkbsb0juu5nkp9kjlg8ioa1i2so3io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzQESMozrdf6PgB9Of4AD9SP9MYiwhBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421218276726-rpdkbsb0juu5nkp9kjlg8ioa1i2so3io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
